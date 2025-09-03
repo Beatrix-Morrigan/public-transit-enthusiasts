@@ -1,0 +1,12 @@
+// if using comments (for things like stop names), requires commentjson to read in Python
+
+[
+	{
+		"name": "", // whatever name is
+		"type": "", // in case not clear by name, also for filtering/prioritizing potentially
+		"lat": 0.0,
+		"lon": 0.0,
+		"stop_ids": [], // list of strings
+		"notes": null // optional string
+	}
+]

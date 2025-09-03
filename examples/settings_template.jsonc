@@ -1,0 +1,55 @@
+{
+	"gtfs_path": "", //absolute path, or relative from where code is executed
+	"walking_transfers_path": null, //pickle file, if previously saved
+	"boundary_path": null, //txt file with lines of coordinates
+	"segment_graph_path": null, //pickle file, if previously saved
+	"loops_path": null, //pickle file, if previously saved
+
+	// if errors, confirm you have current GTFS for your agency
+	"service_date": "YYYYMMDD",
+
+	"route_id_masks": {
+		// Example: San Diego MTS internal rail route IDs: 
+		"510": "Blue Line",
+		"520": "Orange Line",
+		"530": "Green Line",
+		"535": "Copper Line",
+		"540": "Event Line", // Comic-Con only; Balboa Ave to 12/Impl via Green Line
+		"550": "Silver Line" // but note this is excluded below
+	},
+
+	"exclude_routes": [
+		//Example for San Diego
+		"992", // MTS fixed-route airport/downtown circulator
+		"COR", // Coronado Ferry
+		"AIR", // Old Town Airport Flyer
+		"550"  // Silver Line (restored streetcar + 1980s Trolley on downtown loop on holidays)
+	],
+
+	// Routes for which language "the <route_id>" is more natural than "route <route_id>".
+	// Even if the route ID is masked above, use the actual route ID here. 
+	// For example, to turn "route 510" into "the Blue Line", mask "510" to "Blue Line" above and add "510" to this list
+	"the_routes": [
+		"510",
+		"520",
+		"530",
+		"535",
+		"540",
+		"550"
+	],
+	
+	"segment_graph": {
+		"max_transfer_time_minutes": -1, // switch to positive value, cannot be greater than 60
+		"min_transfer_time_minutes": -1, // switch to positive value 
+		"max_transfer_distance_miles": -1, //switch to positive value 
+		"transfer_timepoint_only": false
+	},
+
+	"loop": {
+		"loop_max_duration_hours": -1, // switch to positive value ,
+		"loop_min_duration_hours": -1, // switch to positive value ,
+		"loop_min_segments": -1, // switch to positive value ,
+		"trip_min_duration_minutes": -1, // switch to positive value ,
+		"allow_consecutive_same_route": false
+	}
+}

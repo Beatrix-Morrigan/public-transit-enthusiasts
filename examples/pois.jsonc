@@ -1,0 +1,118 @@
+[
+	{
+		"name": "Hoover Cluster and Alice Birney Elementary", 
+		"type": "Elementary School", 
+		"lat": 32.75431337158875, 
+		"lon": -117.14814200453652,
+		"stop_ids": [
+			"11671", // Park Bl & Howard Av (1, 11 - SB)
+			"13552", // Park Bl & Howard Av (215 - NB)
+			"12800", // Park Bl & El Cajon Bl (11 - NB)
+			"12454", // Park Bl & Howard Av (1, 11 - NB)
+			"13553", // Park Bl & Howard Av (215 - SB)
+			"12065"  // Park Bl & Meade Av (11 - SB)
+		],
+		"notes": null
+	},
+	{
+		"name": "Roosevelt Middle School",
+		"type": "Middle School",
+		"lat": 32.74047939966503, 
+		"lon": -117.14877469094597,
+		"stop_ids": [
+			"11666", // Park Bl & Zoo Dr (7 - SB)
+			"12797"  // Park Bl & Upas (7 - NB)
+		],
+		"notes": null
+	},
+	{
+		"name": "Jefferson Elementary School",
+		"type": "Elementary School",
+		"lat": 32.74790375272045, 
+		"lon": -117.13305330234304,
+		"stop_ids": [
+			"10909", // University Av & Idaho St (7 - WB)
+			"10534"  // University Av & Pershing Av (7 - EB)
+		],
+		"notes": null
+	},
+	{
+		"name": "Saint Patrick School",
+		"type": "Elementary School",
+		"lat": 32.74336753538033, 
+		"lon": -117.12953705345964,
+		"stop_ids": [
+			"12091", // 30th St & Dwight St (2 - SB)
+			"12478"  // 30th St & Dwight St (2 - NB)
+		],
+		"notes": null
+	},
+	{
+		"name": "John Adams Elementary School + Adams Av Park",
+		"type": "Elementary School",
+		"lat": 32.76146704559188, 
+		"lon": -117.11818771405665,
+		"stop_ids": [
+			"11327", // Adams Av & 35th St (11 - EB)
+			"10198" // Adams Av & 35th St (11 - WB)
+		],
+		"notes": null
+	},
+	{
+		"name": "Herbert Hoover High School",
+		"type": "High School",
+		"lat": 32.75551498509622, 
+		"lon": -117.09796872328495,
+		"stop_ids": [
+			"11369", // El Cajon Bl & Chamoune Av (1 - EB)
+			"10620" // El Cajon Bl & Chamoune Av (1 - WB)
+		],
+		"notes": null
+	},
+	{
+		"name": "Rosa Parks Elementary + City Heights Park",
+		"type": "Elementary School",
+		"lat": 32.746188835213914, 
+		"lon": -117.0973927567539,
+		"stop_ids": [
+			"99384", // Fairmount Av & Landis St (13 - NB)
+			"12135" // Fairmount Av & Landis St (13 - SB)
+		],
+		"notes": null
+	},
+	{
+		"name": "Joyner Elementary School",
+		"type": "Elementary School",
+		"lat": 32.74211740582283, 
+		"lon": -117.10277466954275,
+		"stop_ids": [
+			"12134", // Fairmount Av & Myrtle Av (13 - SB)
+			"12516", // Fairmount Av & Myrtle St (13 - NB)
+			"60625"  // Myrtle Av & Fairmount Av (965 - C)
+		],
+		"notes": null
+	},
+	{
+		"name": "Clark Middle School",
+		"type": "Middle School",
+		"lat": 32.74068815426135, 
+		"lon": -117.09995605875646,
+		"stop_ids": [
+			"12515", // Fairmount Av & Thorn St (13 - NB)
+			"12134", // Fairmount Av & Myrtle Av (13 - SB)
+			"60625"  // Myrtle Av & Fairmount Av (965 - C)
+		],
+		"notes": null
+	},
+	{
+		"name": "Hamilton Elementary School",
+		"type": "Elementary School",
+		"lat": 32.73533657059692, 
+		"lon": -117.10022805739224,
+		"stop_ids": [
+			"99126", // Fairmount Av & Olive St (13 - NB)
+			"60628"  // Fairmount Av & Olive St (13 - SB)
+		],
+		"notes": null
+	}
+]

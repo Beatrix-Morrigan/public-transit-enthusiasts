@@ -1,0 +1,49 @@
+{
+	"gtfs_path": "gtfs/MTS_JUN25/",
+	"walking_transfers_path": null,
+	"boundary_path": "examples/midcity_pbound.txt",
+	"segment_graph_path": "examples/midcity_seggraph.pickle", 
+	"loops_path": null,
+
+	"service_date": "20250806",
+
+	"route_id_masks": {
+		"510": "Blue Line",
+		"520": "Orange Line",
+		"530": "Green Line",
+		"535": "Copper Line",
+		"540": "Event Line", 
+		"550": "Silver Line" 
+	},
+
+	"exclude_routes": [
+		"992", 
+		"COR",
+		"AIR",
+		"550"
+	],
+
+	"the_routes": [
+		"510",
+		"520",
+		"530",
+		"535",
+		"540",
+		"550"
+	],
+	
+	"segment_graph": {
+		"max_transfer_time_minutes": 10,
+		"min_transfer_time_minutes": 5,
+		"max_transfer_distance_miles": 0.1,
+		"transfer_timepoint_only": true
+	},
+
+	"loop": {
+		"loop_max_duration_hours": 2,
+		"loop_min_duration_hours": 1,
+		"loop_min_segments": 3,
+		"trip_min_duration_minutes": 10,
+		"allow_consecutive_same_route": false
+	}
+}
