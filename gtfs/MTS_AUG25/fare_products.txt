@@ -1,0 +1,39 @@
+fare_product_id,fare_product_name,amount,currency,fare_media_id,rider_category_id,cap_required,duration_amount,duration_type,duration_unit
+college_monthly,College Monthly Pass,57.60,USD,pronto_digital,college,0,1,1,5
+college_monthly,College Monthly Pass,57.60,USD,pronto_physical,college,0,1,1,5
+college_semester,College Semester Pass (Regional Colleges),180.00,USD,pronto_digital,college,0,5,2,5
+college_semester,College Semester Pass (Regional Colleges),180.00,USD,pronto_physical,college,0,5,2,5
+college_upass,UC San Diego Triton U-Pass,0.00,USD,pronto_digital,college,0,60,2,3
+college_upass,UC San Diego Triton U-Pass,0.00,USD,pronto_physical,college,0,60,2,3
+day_pass,Adult 1-Day Pass,6.00,USD,pronto_digital,,1,1,2,3
+day_pass,Adult 1-Day Pass,6.00,USD,pronto_physical,,1,1,2,3
+day_pass_discount,Persons with Disabilities 1-Day Pass,3.00,USD,pronto_digital,disabled,1,1,2,3
+day_pass_discount,Persons with Disabilities 1-Day Pass,3.00,USD,pronto_physical,disabled,1,1,2,3
+day_pass_discount,Medicare Cardholders 1-Day Pass,3.00,USD,pronto_digital,medicare,1,1,2,3
+day_pass_discount,Medicare Cardholders 1-Day Pass,3.00,USD,pronto_physical,medicare,1,1,2,3
+day_pass_discount,Senior 1-Day Pass,3.00,USD,pronto_digital,senior,1,1,2,3
+day_pass_discount,Senior 1-Day Pass,3.00,USD,pronto_physical,senior,1,1,2,3
+day_pass_premium,Adult 1-Day Pass (Premium),12.00,USD,pronto_digital,,1,1,2,3
+day_pass_premium,Adult 1-Day Pass (Premium),12.00,USD,pronto_physical,,1,1,2,3
+day_pass_premium_discount,Persons with Disabilities 1-Day Pass (Premium),6.00,USD,pronto_digital,disabled,1,1,2,3
+day_pass_premium_discount,Persons with Disabilities 1-Day Pass (Premium),6.00,USD,pronto_physical,disabled,1,1,2,3
+day_pass_premium_discount,Medicare Cardholders 1-Day Pass (Premium),6.00,USD,pronto_digital,medicare,1,1,2,3
+day_pass_premium_discount,Medicare Cardholders 1-Day Pass (Premium),6.00,USD,pronto_physical,medicare,1,1,2,3
+day_pass_premium_discount,Senior 1-Day Pass (Premium),6.00,USD,pronto_digital,senior,1,1,2,3
+day_pass_premium_discount,Senior 1-Day Pass (Premium),6.00,USD,pronto_physical,senior,1,1,2,3
+regional_monthly,Regional Adult Monthly Pass,72.00,USD,pronto_digital,,2,1,1,5
+regional_monthly,Regional Adult Monthly Pass,72.00,USD,pronto_physical,,2,1,1,5
+regional_monthly_discount,Persons with Disabilities Monthly Pass,23.00,USD,pronto_digital,disabled,2,1,1,5
+regional_monthly_discount,Persons with Disabilities Monthly Pass,23.00,USD,pronto_physical,disabled,2,1,1,5
+regional_monthly_discount,Medicare Cardholders Monthly Pass,23.00,USD,pronto_digital,medicare,2,1,1,5
+regional_monthly_discount,Medicare Cardholders Monthly Pass,23.00,USD,pronto_physical,medicare,2,1,1,5
+regional_monthly_discount,Senior Monthly Pass,23.00,USD,pronto_digital,senior,2,1,1,5
+regional_monthly_discount,Senior Monthly Pass,23.00,USD,pronto_physical,senior,2,1,1,5
+regional_monthly_premium,Regional Adult Monthly Pass (Premium),100.00,USD,pronto_digital,,2,1,1,5
+regional_monthly_premium,Regional Adult Monthly Pass (Premium),100.00,USD,pronto_physical,,2,1,1,5
+regional_monthly_premium_discount,Persons with Disabilities Monthly Pass (Premium),32.00,USD,pronto_digital,disabled,2,1,1,5
+regional_monthly_premium_discount,Persons with Disabilities Monthly Pass (Premium),32.00,USD,pronto_physical,disabled,2,1,1,5
+regional_monthly_premium_discount,Medicare Cardholders Monthly Pass (Premium),32.00,USD,pronto_digital,medicare,2,1,1,5
+regional_monthly_premium_discount,Medicare Cardholders Monthly Pass (Premium),32.00,USD,pronto_physical,medicare,2,1,1,5
+regional_monthly_premium_discount,Senior Monthly Pass (Premium),32.00,USD,pronto_digital,senior,2,1,1,5
+regional_monthly_premium_discount,Senior Monthly Pass (Premium),32.00,USD,pronto_physical,senior,2,1,1,5

@@ -1,0 +1,11 @@
+from_leg_group_id,to_leg_group_id,transfer_count,duration_limit,duration_limit_type,fare_transfer_type,rider_category_id,fare_media_id,amount,currency,is_symmetrical
+sdmts,sdmts,,7200,1,0,,pronto_digital,0,USD,1
+sdmts,sdmts,,7200,1,0,,pronto_physical,0,USD,1
+sdmts,sdmts,,7200,1,0,college,pronto_digital,0,USD,1
+sdmts,sdmts,,7200,1,0,college,pronto_physical,0,USD,1
+sdmts,sdmts,,7200,1,0,disabled,pronto_digital,0,USD,1
+sdmts,sdmts,,7200,1,0,disabled,pronto_physical,0,USD,1
+sdmts,sdmts,,7200,1,0,medicare,pronto_digital,0,USD,1
+sdmts,sdmts,,7200,1,0,medicare,pronto_physical,0,USD,1
+sdmts,sdmts,,7200,1,0,senior,pronto_digital,0,USD,1
+sdmts,sdmts,,7200,1,0,senior,pronto_physical,0,USD,1

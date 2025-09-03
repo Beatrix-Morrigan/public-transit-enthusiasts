@@ -1,0 +1,5 @@
+network_id,network_name
+RURAL,
+FERRY,
+AIRPORT,
+RAPID_EXPRESS_PREMIUM,
